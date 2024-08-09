@@ -1,0 +1,5 @@
+package com.sonata.Model;
+
+public class UserRating {
+private List<Rating> 
+}

@@ -1,0 +1,5 @@
+package com.sonata.Controller;
+
+public class RatingResource {
+
+}

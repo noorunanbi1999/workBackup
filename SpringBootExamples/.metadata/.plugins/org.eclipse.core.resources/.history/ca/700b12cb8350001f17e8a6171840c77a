@@ -1,0 +1,25 @@
+package com.sonata.product;
+
+public class TestProd {
+
+	public static void main(String[] args) {
+		Product p1=new Product();
+		p1.setpId(13);
+		p1.setPname("Oil");
+		p1.setPrice(23.8);
+		
+		ProductImpl pro1=new ProductImpl();
+		pro1.totalPrice(p1);
+		
+		try {
+			if(pro1.totalPrice(p1)<500)throw new CustomException();
+		}catch(CustomException e){
+			System.out.print(e.getMessage());
+		}
+		System.out.println(p1.getpId());
+		System.out.println(p1.getPname());
+		System.out.println(p1.getPrice());
+
+	}
+
+}

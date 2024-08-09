@@ -1,0 +1,18 @@
+1722249789123	Rename resource 'bean 2.xml'
+1722250040003	Encapsulate field 'carYear'
+1722250047924	Encapsulate field 'carName'
+1722250052943	Encapsulate field 'carDes'
+1722251048320	Encapsulate field 'eId'
+1722251064018	Encapsulate field 'eName'
+1722251069486	Encapsulate field 'eSal'
+1722252449003	Encapsulate field 'pId'
+1722252453438	Encapsulate field 'pName'
+1722252458437	Encapsulate field 'pPrice'
+1722312192271	Encapsulate field 'state'
+1722312196698	Encapsulate field 'country'
+1722312208650	Encapsulate field 'address'
+1722314128198	Encapsulate field 'schoolName'
+1722314132768	Encapsulate field 'studentData'
+1722318027570	Delete element
+1722318897084	Delete element
+1722320027617	Encapsulate field 'data'
